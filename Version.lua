@@ -1,4 +1,4 @@
-if getgenv().Version == '2.3' then
+if getgenv().Version == '2.4' then
     getgenv().webhook = false
 else
     getgenv().webhook = true
